@@ -1,0 +1,75 @@
+.row{
+  display: inherit;
+  margin-top: 30px;
+}
+.card-primary.card-outline{
+  border-top: 3px solid #9054c7;
+}
+.wrap-login100 {
+  width: 960px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px 15px 33px 15px;
+}
+.card_form{
+  width: 100%;
+}
+.card_btn{
+  background: #57b846;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 100%
+}
+.card_foot{
+  border-top: 1px solid rgba(0,0,0,.125);
+}
+.content_card{
+  width: 100%;
+}
+.card_img{
+  height: 50px;
+}
+.main-header{
+  margin-left: 0px;
+}
+.link_post{
+  background: #57b846;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-family: Montserrat-Bold;
+}
+.btn_post{
+  width: 100%;
+  background: #57b846;
+  height: 40px;
+  border-radius: 5px;
+}
+.container{
+  width: 100%;
+}
+.card-deck{
+  display: inline;
+}
+.validatebtn{
+  width: 100%;
+  background: #57b846;
+  color: white;
+  border-radius: 5px;
+}
+.filterforms{
+  text-align: center;
+}
